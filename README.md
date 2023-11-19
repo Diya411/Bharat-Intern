@@ -1,7 +1,7 @@
 # Bharat-Intern
 This repository is created for my Internship. <br>
 Author : Divya Gurav <hr>
-Task 1. Portfolio Website : <br>
+Task 1. Portfolio Website <br>
 Create a portfolio website using HTML and CSS to showcase your skills and accomplishments. <hr>
 
 Task 2. Weather Website <br>
